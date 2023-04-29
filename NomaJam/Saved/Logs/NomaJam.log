@@ -3381,3 +3381,11 @@ Script Stack (0 frames):
 [2023.04.29-23.49.55:554][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
 [2023.04.29-23.49.55:897][291]SourceControl: rm 'NomaJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/BJ/OR5AUW8JBQJFKGHLZXLJ9D.uasset'
 [2023.04.29-23.49.55:897][291]SourceControl: rm 'NomaJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/WY/XRAXAOSV7ZY58JQAFZQ1Q0.uasset'
+[2023.04.29-23.53.06:382][902]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2023.04.29-23.53.06:421][902]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.309
+[2023.04.29-23.53.06:470][902]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StarterContent/Blueprints/Assets/Rebar] ([2] browsable assets)...
+[2023.04.29-23.53.06:750][902]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Blueprints/Assets/Rebar.Rebar]
+[2023.04.29-23.53.06:753][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Blueprints/Assets/Rebar]
+[2023.04.29-23.53.06:948][902]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Blueprints/Assets/Rebar_Auto0
+[2023.04.29-23.53.06:948][902]LogSavePackage: Moving 'D:/Unreal Project/Sonoma-Game-Jam/NomaJam/Saved/Rebar_Auto08D92829C466E71031CBCC282D123A344.tmp' to 'D:/Unreal Project/Sonoma-Game-Jam/NomaJam/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Rebar_Auto0.uasset'
+[2023.04.29-23.53.06:960][902]LogFileHelpers: Auto-saving content packages took 0.537
