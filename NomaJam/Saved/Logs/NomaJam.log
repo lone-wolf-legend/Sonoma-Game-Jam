@@ -1922,3 +1922,6 @@ Recommended: 30.0.101.1340
 [2023.04.29-20.26.54:440][ 35]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
 [2023.04.29-20.26.54:441][ 35]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
 [2023.04.29-20.26.54:441][ 35]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.04.29-20.26.54:922][ 35]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.04.29-20.26.54:922][ 35]LogExit: Exiting.
+[2023.04.29-20.26.54:968][ 35]Log file closed, 04/29/23 13:26:54

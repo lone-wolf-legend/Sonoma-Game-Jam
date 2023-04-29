@@ -1,1 +1,4 @@
 *.log
+/Saved
+/Config
+/Intermediate
