@@ -1,5 +1,1 @@
-**/logs
-**/logs/debug.log
-/Saved
-/Intermediate
-/Config
+*.log
